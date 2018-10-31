@@ -1,0 +1,97 @@
+@CHARSET "UTF-8";
+
+#SettlementConfirm-contents {
+	width : 80%;
+	margin : 0 auto;
+	padding :0 0 3%;
+}
+
+#SettlementConfirm-contents-h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: normal;
+    padding: 4% 0 0 0;
+    color : #000;
+}
+
+.select-address {
+    text-align: center;
+}
+
+#address-box {
+	width : 60%;
+	margin : 2% auto 10%;
+	text-align	: center;
+}
+
+.address-list-table {
+    line-height: 1.8;
+    border: solid 2px #4b6cb7;
+    border-radius: 5px;
+    margin: 1% 1%;
+    width: 100%;
+    padding: 2% 1%;
+}
+
+.address-list-table td{
+	 padding: 1% 2%;
+	 width: 30%;
+}
+
+.address-list-table th {
+    text-align: left;
+    padding-left: 8%;
+}
+
+#address-select {
+	padding: 1% 0 0 0;
+	text-align: left;
+}
+
+.address-select-radio {
+	margin : 0 0 2% 0;
+}
+
+.settle-btn1 {
+    width: 200px;
+    height: 50px;
+    background: #4b6cb7;
+    border: 2px solid #4b6cb7;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    border-radius: 2px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 3% 0 0;
+}
+
+.settle-btn1:hover {
+ 	color: #fff;
+	background: #191970;
+	border: 2px solid #191970;
+}
+
+.settle-btn2 {
+    width: 200px;
+    height: 50px;
+    background: #fff;
+    border: 2px solid #4b6cb7;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    border-radius: 2px;
+    color: #4b6cb7;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top : 5%;
+}
+
+.settle-btn2:hover {
+ 	color: #E9967A;
+	border: 2px solid #E9967A;
+}
+
+.settle-btn-wrap {
+	width: 200px;
+	margin: 0 auto;
+}

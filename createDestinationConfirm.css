@@ -1,0 +1,70 @@
+@CHARSET "UTF-8";
+
+#createDestinationConfirm-contents {
+	margin : 0 auto;
+	text-align : center;
+	padding: 8% 15% 2%;
+}
+
+#createDestinationConfirm-h1 {
+    font-size: 150%;
+    border-left: solid 10px #4b6cb7;
+    font-weight: normal;
+    padding-left: 1.5%;
+    text-align: left;
+    margin: 5% 20% 3% 20%;
+    color: #000;
+}
+
+#createDestinationConfirm-box {
+	margin: 2% auto;
+    padding:3%;
+	background-color:#F5F6CE;
+    max-width:500px;
+    min-width:30%;
+    border-radius:10px;
+    vertical-align:middle;
+}
+
+.check-list-table {
+    line-height: 3;
+    border-spacing: 10px 0px;
+    margin: 3% 27%;
+}
+
+.check-list-table th,.check-list-table td{
+    text-align: left;
+    font-weight: normal;
+}
+
+.check {
+	margin : 3% 0 4% 0;
+	font-size : 110%;
+}
+
+.register-btn-box {
+	margin : 7% 0 5% 0;
+}
+
+.register-btn {
+    width: 200px;
+    height: 50px;
+    background: #4b6cb7;
+    border: 2px solid #4b6cb7;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    border-radius: 2px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.register-btn:hover {
+ 	color: #fff;
+	background: #191970;
+	border: 2px solid #191970;
+}
+
+#createDestinationConfirm-box th{
+	width:25%;
+}
